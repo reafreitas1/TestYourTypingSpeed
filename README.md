@@ -1,5 +1,5 @@
 Test Your Typing Speed
 
-App desenvolvido durante o curso “JavaScript: Treinamento Básico”.
+App developed during the course “JavaScript: Basic Training”.
 
 https://reafreitas1.github.io/TestYourTypingSpeed/
