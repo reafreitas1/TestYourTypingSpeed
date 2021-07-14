@@ -34,7 +34,7 @@ function spellCheck() {
     
     if (textEntered == originText) {
         clearInterval(interval);
-        testWrapper.style.borderColor = "#429890";
+        testWrapper.style.borderColor = "#5b9613";
     } else {
         if (textEntered == originTextMatch) {
             testWrapper.style.borderColor = "#65CCf3";
